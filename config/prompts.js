@@ -1,1 +1,3 @@
-module.exports = prompts;
+// Will update soon!
+
+// module.exports = prompts;

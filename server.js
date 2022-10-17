@@ -7,6 +7,7 @@ require('console.table');
 startPrompt();
 
 // Start of prompt to give user a choice
+// Will move to prompts.js soon
 function startPrompt() {
 
     inquirer
